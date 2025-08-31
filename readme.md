@@ -1,4 +1,4 @@
-# 中国科学技术大学求职简历LaTeX模板
+# 中国科学技术大学简历LaTeX模板
 
 [![中文](https://img.shields.io/badge/文档-中文-blue.svg)](readme.md)
 [![English](https://img.shields.io/badge/Documentation-English-blue.svg)](README.md)
@@ -17,7 +17,6 @@
 
 - ✨ **专业美观**：采用简洁大方的学术风格，突出个人优势
 - 🎨 **中英文支持**：完美支持中英文混合排版，字体显示清晰
-- 📐 **规范格式**：符合中科大简历规范，适合各类求职场景
 - 🚀 **易于使用**：只需修改个人信息即可生成专业简历
 - 📱 **响应式设计**：自动适应不同打印和屏幕显示需求
 
@@ -105,9 +104,7 @@ USTC_Resume/
 
 ## 🙏 致谢
 
-- 感谢中国科学技术大学教务处提供的规范格式
 - 感谢开源社区对LaTeX生态的贡献：[hijiangtao/resume](https://github.com/hijiangtao/resume)
-- 感谢所有使用和反馈本模板的同学
   
 ---
 
